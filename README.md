@@ -16,23 +16,6 @@ Minha base no Direito me permite interpretar regras de negócio com profundidade
 
 ---
 
-## 🚀 Projeto em destaque
-
-### 🍔 Unip Lanches — Sistema Full Stack
-
-Sistema completo para gestão de varejo alimentício com:
-
-- 🧾 PDV (Ponto de Venda)
-- 📦 Controle de estoque
-- ⏰ Monitoramento de produtos perecíveis
-- 🔐 Controle de acesso e autenticação
-- 🔄 Integração entre front-end e back-end
-
-🔗 **Acesse o projeto:**  
-👉 (COLE SEU LINK AQUI)
-
----
-
 ## 🖥️ Tecnologias
 
 ### Front-end
@@ -52,14 +35,6 @@ Sistema completo para gestão de varejo alimentício com:
 ![Git](https://img.shields.io/badge/Git-20232A?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-20232A?style=for-the-badge&logo=github)
 ![PowerBI](https://img.shields.io/badge/PowerBI-20232A?style=for-the-badge&logo=powerbi)
-
----
-
-## 📊 Estatísticas
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=SEU_USER&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USER&layout=compact&theme=tokyonight)
 
 ---
 
